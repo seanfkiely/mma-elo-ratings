@@ -30,7 +30,8 @@ The result is a fully reproducible process that produces detailed fighter-level 
 - Outputs:
   - Fighter-level summaries (wins, losses, win rate, current Elo, peak Elo, average Elo)  
   - Peak Elo leaderboards  
-  - Rating distributions and comparative metrics   
+  - Rating distributions and comparative metrics
+  - Legacy Scores   
 - Reproducible code and modular functions for expanding the system
 
 ---
@@ -134,6 +135,7 @@ Together, these adjustments produce a more stable and realistic model of MMA ski
     01_scrape_and_clean_fights    # Runs scraper.py and parse_fights.py
     02_build_elo_ratings          # Create ELO ratings
     03_tables_and_figures         # Create visuals
+    04_goat_metrics               # Create metrics for best fighters of all time
 
 /data
     raw/                  # Raw scraped bout data
@@ -147,12 +149,9 @@ README.md
 ```
 
 ## Example Figure
-<figure style="text-align:center; margin: 2em 0;">
-  <img src="/images/elo_vs_win_rate.png" alt="ELO Rating vs Win Rate" style="width:90%; max-width:800px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15);">
-  <figcaption style="font-style:italic; font-size:0.9em; margin-top:0.5em;">
-    <strong>ELO Rating vs Win Rate %</strong>
-  </figcaption>
-</figure>
+<p align="center">
+  <img src="https://seanfkiely.github.io/images/elo_vs_win_rate.png" width="600">
+</p>
 
 
 ## Example Table
@@ -177,7 +176,7 @@ README.md
 ## Full Write-Up
 
 For a more complete write-up of the methodology, extended results, and analysis commentary, see 
-[my website](https://seanfkiely.github.io/side-projects/nfl_kicker_evolution/).
+[my website](https://seanfkiely.github.io/side-projects/mma_elo_ratings/).
 
 ## License
 
