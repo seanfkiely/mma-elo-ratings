@@ -4,7 +4,6 @@ A.J. Fletcher,False
 AJ Cunningham,False
 AJ Dobson,False
 AJ Fletcher,False
-ARCO Arena,True
 Aalon Cruz,False
 Aaron Brink,True
 Aaron Phillips,True
@@ -16,6 +15,7 @@ Aaron Wilkinson,False
 Abdul Razak Alhassan,True
 Abdul-Kareem Al-Selwady,False
 Abdul-Kerim Edilov,True
+Abdul-Rakhman Yakhyaev,False
 Abe Wagner,False
 Abel Trujillo,True
 Abner Lloveras,True
@@ -29,11 +29,11 @@ Adam Wieczorek,True
 Adam Yandiev,False
 Adlan Amagov,True
 Adrian Serrano,False
-Adrian Yañez,True
+Adrian Yanez,True
 Adriano Martins,True
 Adriano Santos,False
 Aiemann Zahabi,True
-Ailín Pérez,True
+Ailin Perez,False
 Aisling Daly,True
 Akbarh Arreola,True
 Akihiro Gono,True
@@ -54,9 +54,9 @@ Alberto Crane,True
 Alberto Mina,True
 Alberto Uda,False
 Alden Coria,False
-Alejandro Pérez,True
+Alejandro Perez,True
 Aleksa Camur,True
-Aleksandar Rakić,True
+Aleksandar Rakic,True
 Aleksandra Albu,True
 Aleksandre Topuria,False
 Aleksei Oleinik,True
@@ -88,7 +88,7 @@ Alexa Grasso,True
 Alexander Gustafsson,True
 Alexander Hernandez,True
 Alexander Munoz,True
-Alexander Muñoz,True
+Alexander Munoz,True
 Alexander Romanov,True
 Alexander Volkanovski,True
 Alexander Volkov,True
@@ -98,7 +98,7 @@ Alexandre Dantas,True
 Alexandre Ferreira,True
 Alexandre Pantoja,True
 Alexey Kunchenko,True
-Alexey Oleynik,True
+Aleksei Oleinik,True
 Alexia Thainara,False
 Alexis Davis,True
 Alexis Dufresne,False
@@ -111,14 +111,14 @@ Alice Ardelean,False
 Alice Pereira,False
 Alistair Overeem,True
 Aljamain Sterling,True
-Allan Góes,True
+Allan Goes,True
 Allan Nascimento,False
-Allan Zuñiga,False
+Allan Zuniga,True
 Allen Berube,False
 Allen Crowder,True
 Alonzo Menifield,True
 Alp Ozkilic,True
-Alptekin Özkılıç,True
+Alp Ozkilic,True
 Alvin Hines,False
 Alvin Robinson,True
 Amanda Brundage,True
@@ -141,18 +141,18 @@ Andre Winner,True
 Andrea Lee,True
 Andreas Gustafsson,True
 Andreas Michailidis,True
-Andreas Ståhl,False
+Andreas Stahl,False
 Andrei Arlovski,True
 Andrei Semenov,True
 Andrew Craig,True
 Andrew Holbrook,True
 Andrew Sanchez,True
 Andrey Pulyaev,False
-André Fialho,True
-André Gusmão,False
-André Lima,True
-André Muniz,True
-André Pederneiras,True
+Andre Fialho,True
+Andre Gusmao,False
+Andre Lima,True
+Andre Muniz,True
+Andre Pederneiras,True
 Andy Anderson,True
 Andy Enz,True
 Andy Main,True
@@ -161,7 +161,7 @@ Andy Wang,False
 Ange Loosa,False
 Angel Pacheco,True
 Angela Hill,True
-Angela Magaña,True
+Angela Magana,True
 Anistavio Medeiros,False
 Anna Elmose,False
 Ansar Chalangov,False
@@ -191,14 +191,14 @@ Antonio Carvalho,True
 A. J. McKee,True
 Antonio Mendes,True
 Antonio Silva,True
-Antonio Trócoli,False
-Antônio Arroyo,True
-Antônio Braga Neto,True
-Antônio Carlos Júnior,True
-Antônio Rodrigo Nogueira,True
-Antônio Rogério Nogueira,True
-Antônio Silva,True
-Antônio dos Santos Jr.,False
+Antonio Trocoli,False
+Antonio Arroyo,True
+Antonio Braga Neto,True
+Antonio Carlos Junior,True
+Antonio Rodrigo Nogueira,True
+Antonio Rogerio Nogueira,True
+Antonio Silva,True
+Antonio dos Santos Jr.,False
 Anying Wang,False
 Aori Qileng,True
 Ariane Carnelossi,True
@@ -218,12 +218,12 @@ Ashley Yoder,True
 Askar Askarov,True
 Askar Mozharov,False
 Aspen Ladd,True
-Assuério Silva,True
+Assuerio Silva,True
 Asu Almabayev,True
 Ateba Abega Gautier,False
 Ateba Gautier,False
 Augusto Mendes,True
-Augusto Montaño,True
+Augusto Montano,True
 Augusto Sakai,True
 Austen Lane,True
 Austin Arnett,True
@@ -242,7 +242,7 @@ Baergeng Jieleyisi,False
 Baisangur Susurkaev,False
 Barb Honchak,True
 Bart Palaszewski,True
-Bartosz Fabiński,True
+Bartosz Fabinski,True
 Bas Rutten,True
 Bassil Hafez,False
 Baysangur Susurkaev,False
@@ -262,7 +262,7 @@ Ben Wall,False
 Beneil Dariush,True
 Benito Lopez,True
 Benji Radach,True
-Benoît Saint Denis,True
+Benoit Saint Denis,False
 Benson Henderson,True
 Bentley Syler,False
 Bernardo Magalhaes,False
@@ -291,8 +291,8 @@ Bobby Southworth,True
 Bobby Voelker,True
 Bogdan Grad,False
 Bogdan Guskov,True
-Bojan Mihajlović,True
-Bojan Veličković,True
+Bojan Mihajlovic,True
+Bojan Velickovic,True
 Bolaji Oki,False
 Boston Salmon,False
 Brad Blackburn,True
@@ -307,7 +307,7 @@ Brad Scott,True
 Brad Tavares,True
 Brady Hiestand,False
 Branden Lee Hinkle,True
-Brando Peričić,False
+Brando Pericic,False
 Brandon Davis,True
 Brandon Jenkins,True
 Brandon Melendez,True
@@ -372,7 +372,7 @@ Cain Velasquez,True
 Caio Borralho,True
 Caio Machado,False
 Caio Magalhaes,True
-Caio Magalhães,True
+Caio Magalhaes,True
 Cal Worsham,False
 Cale Yarbrough,False
 Callan Potter,True
@@ -384,7 +384,7 @@ Cameron Saaiman,True
 Cameron Smotherman,False
 Cameron VanCamp,False
 Caol Uno,True
-Caolán Loughran,False
+Caolan Loughran,False
 Carl Deaton III,False
 Carla Esparza,True
 Carli Judice,False
@@ -397,7 +397,7 @@ Carlos Diego Ferreira,True
 Carlos Eduardo Rocha,True
 Carlos Felipe,True
 Carlos Hernandez,True
-Carlos Hernández,True
+Carlos Hernandez,True
 Carlos Huachin,False
 Carlos Leal,True
 Carlos Leal Miranda,False
@@ -473,7 +473,7 @@ Chris Dempsey,True
 Chris Duncan,True
 Chris Fishgold,True
 Chris Gruetzemacher,True
-Chris Gutiérrez,True
+Chris Gutierrez,True
 Chris Haseman,True
 Chris Heatherly,False
 Chris Holdsworth,True
@@ -486,7 +486,7 @@ Chris Padilla,True
 Chris Price,True
 Chris Sanford,True
 Chris Saunders,True
-Chris Spång,False
+Chris Spang,False
 Chris Tickle,False
 Chris Tuchscherer,True
 Chris Wade,True
@@ -499,7 +499,7 @@ Christian Leroy Duncan,True
 Christian Morecraft,True
 Christian Rodriguez,True
 Christian Wellisch,True
-Christina Marks,True
+Christina Marks,False
 Christophe Leininger,True
 Christos Giagos,True
 Chuck Liddell,True
@@ -515,9 +515,9 @@ Clay Harvison,True
 Clayton Carpenter,False
 Clifford Starks,True
 Clint Hester,True
-Cláudia Gadelha,True
-Cláudio Ribeiro,True
-Cláudio Silva,True
+Claudia Gadelha,True
+Claudio Ribeiro,True
+Claudio Silva,True
 Cody Brundage,True
 Cody Donovan,True
 Cody Durden,True
@@ -555,8 +555,8 @@ Courtney Turner,True
 Crafton Wallace,False
 Craig White,True
 Cris Cyborg,True
-Cristian Quiñonez,False
-Cristian Quiñónez,False
+Cristian Quinonez,False
+Cristian Quinonez,False
 Cristiano Marcello,True
 Cristina Stanciu,False
 Cub Swanson,True
@@ -568,8 +568,8 @@ Curtis Stout,False
 Cynthia Calvillo,True
 Cyril Asker,True
 Cyrille Diabate,True
-Cyrille Diabaté,True
-César Almeida,True
+Cyrille Diabate,True
+Cesar Almeida,True
 Da Un Jung,True
 Da'Mon Blackshear,False
 DaMarques Johnson,True
@@ -582,7 +582,7 @@ Damacio Page,True
 Damian Grabowski,True
 Damian Stasiak,True
 Damien Brown,True
-Damir Hadžović,True
+Damir Hadzovic,True
 Damir Ismagulov,True
 Damon Jackson,True
 Dan Argueta,False
@@ -604,13 +604,13 @@ Dan Stittgen,False
 Danaa Batgerel,True
 Daniel Argueta,False
 Daniel Barez,False
-Daniel Bárez,False
+Daniel Barez,False
 Daniel Cormier,True
 Daniel Frunza,False
 Daniel Jolly,False
 Daniel Lacerda,True
 Daniel Marcos,True
-Daniel Omielańczuk,True
+Daniel Omielanczuk,True
 Daniel Pineda,True
 Daniel Roberts,True
 Daniel Rodriguez,True
@@ -640,7 +640,7 @@ Dante Rivera,True
 Danyelle Wolf,True
 Daria Zheleznyakova,False
 Darian Weeks,False
-Darko Stošić,True
+Darko Stosic,True
 Daron Cruickshank,True
 Darrel Gholar,False
 Darrell Horcher,True
@@ -668,13 +668,13 @@ David Baron,True
 David Bielkheden,True
 David Branch,True
 David Dodd,True
-David Dvořák,True
+David Dvorak,True
 David Heath,True
 David Hood,True
 David Lee,True
 David Levicki,False
 David Loiseau,True
-David Martínez,True
+David Martinez,True
 David Michaud,True
 David Mitchell,True
 David Onama,True
@@ -690,7 +690,7 @@ Delson Heleno,False
 Demetrious Johnson,True
 Demian Maia,True
 Denis Kang,True
-Denis Stojnić,False
+Denis Stojnic,False
 Denis Tiuliulin,False
 Denise Gomes,True
 Dennis Bermudez,True
@@ -698,6 +698,7 @@ Dennis Buzukja,False
 Dennis Hallman,True
 Dennis Siver,True
 Denys Bondar,False
+Denzel Freeman,False
 Dequan Townsend,True
 Derek Brunson,True
 Derek Downey,False
@@ -710,9 +711,9 @@ Devin Clark,True
 Devin Powell,True
 Devonte Smith,True
 Dhiego Lima,True
-Diana Belbiţă,True
+Diana Belbita,True
 Diego Brandao,True
-Diego Brandão,True
+Diego Brandao,True
 Diego Lopes,True
 Diego Nunes,True
 Diego Rivas,True
@@ -763,7 +764,7 @@ Dustin Ortiz,True
 Dustin Pague,True
 Dustin Poirier,True
 Dustin Stoltzfus,True
-Duško Todorović,True
+Dusko Todorovic,True
 Dwayne Cason,False
 Dwight Grant,True
 Dylan Andrews,True
@@ -779,7 +780,7 @@ Eddie Wineland,True
 Eddie Yagin,False
 Edgar Chairez,False
 Edgar Garcia,True
-Edgar García,True
+Edgar Garcia,True
 Edilberto de Oliveira,False
 Edmen Shahbazyan,True
 Ednaldo Oliveira,False
@@ -793,7 +794,7 @@ Eiji Mitsuoka,True
 Eldo Dias Xavier,False
 Elias Garcia,False
 Elias Silverio,True
-Elias Silvério,True
+Elias Silverio,True
 Elias Theodorou,True
 Elijah Smith,True
 Eliot Marshall,True
@@ -802,7 +803,7 @@ Elisha Ellison,False
 Elizabeth Phillips,True
 Elizeu Zaleski dos Santos,True
 Elves Brener,False
-Elvis Mutapčić,True
+Elvis Mutapcic,False
 Elvis Sinosic,True
 Emil Weber Meek,True
 Emily Ducote,True
@@ -810,7 +811,7 @@ Emily Kagan,True
 Emily Whitmire,True
 Emmanuel Yarbrough,True
 Enrique Barzola,True
-Enrique Marín,False
+Enrique Marin,True
 Enson Inoue,True
 Eric Martin,True
 Eric McConico,False
@@ -820,14 +821,15 @@ Eric Shelton,True
 Eric Spicely,True
 Eric Wisely,True
 Erick Gonzalez,False
-Erick Montaño,False
+Erick Montano,False
 Erick Silva,True
 Ericka Almeida,False
 Erik Koch,True
+Erik Perez,True
 Erik Silva,False
 Erin Blanchfield,True
 Ernest Chavez,True
-Ernesta Kareckaitė,False
+Ernesta Kareckaite,False
 Ernie Verdicia,False
 Eryk Anders,True
 Esteban Ribovics,True
@@ -843,11 +845,11 @@ Fabiano Scherner,True
 Fabio Cherant,True
 Fabio Maldonado,True
 Fabricio Camoes,True
-Fabrício Camões,True
-Fabrício Werdum,True
+Fabricio Camoes,True
+Fabricio Werdum,True
 Falaniko Vitale,True
 Farid Basharat,True
-Farès Ziam,True
+Fares Ziam,True
 Fatima Kline,False
 Felice Herrig,True
 Felicia Spencer,True
@@ -863,7 +865,7 @@ Feng Xiaocan,False
 Fernando Bruno,True
 Fernando Padilla,False
 Fernie Garcia,False
-Filip Pejić,False
+Filip Pejic,False
 Flavio Luiz Moura,False
 Floyd Sword,False
 Forrest Griffin,True
@@ -877,7 +879,7 @@ Francis Ngannou,True
 Francisco Figueiredo,True
 Francisco Prado,False
 Francisco Rivera,True
-Francisco Treviño,True
+Francisco Trevino,True
 Francisco Trinaldo,True
 Frank Camacho,True
 Frank Caracci,False
@@ -890,12 +892,12 @@ Frankie Edgar,True
 Frankie Perez,True
 Frankie Saenz,True
 Fred Ettish,False
-Fredson Paixão,True
+Fredson Paixao,True
 Fredy Serrano,True
-Fábio Gurgel,True
-Fábio Maldonado,True
+Fabio Gurgel,True
+Fabio Maldonado,True
 Gabe Ruediger,True
-Gabriel Benítez,True
+Gabriel Benitez,True
 Gabriel Bonfim,True
 Gabriel Gonzaga,True
 Gabriel Green,True
@@ -913,14 +915,14 @@ Garreth McLellan,True
 Garrett Armfield,False
 Gary Goodridge,True
 Gasan Umalatov,True
-Gastón Bolaños,False
+Gaston Bolanos,False
 Gauge Young,False
 Gavin Tucker,True
 Geane Herrera,True
 Gegard Mousasi,True
 Genaro Valdez,False
-Genaro Valdèz,False
-Genaro Valdéz,False
+Genaro Valdez,False
+Genaro Valdez,False
 Genki Sudo,True
 Geoff Neal,True
 George Roop,True
@@ -947,7 +949,7 @@ Gilbert Urbina,False
 Gilbert Yvel,True
 Gillian Robertson,True
 Gina Mazany,True
-Glaico França,False
+Glaico Franca,False
 Gleison Tibau,True
 Gloria de Paula,True
 Glover Teixeira,True
@@ -968,7 +970,7 @@ Guram Kutateladze,True
 Gustavo Lopez,True
 Guto Inocente,True
 Guy Mezger,True
-Gökhan Saki,True
+Gokhan Saki,True
 Hacran Dias,True
 Hailey Cowan,False
 Hakeem Dawodu,True
@@ -998,12 +1000,12 @@ Henry Cejudo,True
 Henry Martinez,True
 Herbert Burns,True
 Hermes Franca,True
-Hermes França,True
-Hernani Perpétuo,False
+Hermes Franca,True
+Hernani Perpetuo,True
 Holly Holm,True
 Homer Moore,True
 Honda Center,True
-Horacio Gutiérrez,True
+Horacio Gutierrez,True
 Houston Alexander,True
 Houston Dorr,False
 Hu Yaozong,True
@@ -1014,8 +1016,8 @@ Humberto Brown,False
 Hunter Azure,True
 Hyder Amil,True
 Hyun Gyu Lim,True
-Héctor Lombard,True
-Héctor Urbina,True
+Hector Lombard,True
+Hector Urbina,True
 Ian Entwistle,True
 Ian Freeman,True
 Ian Garry,True
@@ -1023,11 +1025,11 @@ Ian Heinisch,True
 Ian Loveland,True
 Ian Machado Garry,True
 Ian McCall,True
-Iasmin Lucindo,False
+Iasmin Lucindo,True
 Ibo Aslan,True
 Icho Larenas,False
 Ignacio Bahamondes,True
-Igor Araújo,True
+Igor Araujo,True
 Igor Pokrajac,True
 Igor Severino,True
 Igor Zinoviev,False
@@ -1036,18 +1038,18 @@ Ike Villanueva,True
 Ikram Aliskerov,True
 Ikuhisa Minowa,True
 Ildemar Alcantara,True
-Ildemar Alcântara,True
+Ildemar Alcantara,True
 Ilia Topuria,True
 Iliarde Santos,True
 Ilir Latifi,True
 Impa Kasanganay,True
-Ion Cuțelaba,True
+Ion Cutelaba,True
 Irene Aldana,True
 Irina Alekseeva,True
 Irwin Rivera,True
 Isaac Dulgarian,False
 Isaac Vallie-Flagg,True
-Isabella de Pádua,False
+Isabella de Padua,False
 Islam Dulatov,True
 Islam Makhachev,True
 Ismael Bonfim,False
@@ -1055,13 +1057,13 @@ Ismail Naurdiev,True
 Israel Adesanya,True
 Issei Tamura,True
 Istela Nunes,False
-Iuri Alcântara,True
+Iuri Alcantara,True
 Ivan Erslan,False
 Ivan Jorge,True
 Ivan Menjivar,True
 Ivan Salaverry,True
 Ivan Serati,False
-Ivana Petrović,False
+Ivana Petrovic,False
 Izabela Badurek,False
 J.C. Cottrell,False
 JJ Aldrich,True
@@ -1207,7 +1209,7 @@ Jessica Rakoczy,True
 Jessica-Rose Clark,True
 Jessin Ayari,True
 Jesus Pinedo,True
-Jesús Santos Aguilar,False
+Jesus Santos Aguilar,False
 Jhonata Diniz,True
 Ji Yeon Kim,True
 Jianping Yang,False
@@ -1223,10 +1225,10 @@ Jimmy Quinlan,True
 Jimy Hettes,True
 Jin Soo Son,False
 Jinh Yu Frey,True
-Jiří Procházka,True
+Jiri Prochazka,True
 Joachim Christensen,True
 Joanderson Brito,False
-Joanna Jędrzejczyk,True
+Joanna Jedrzejczyk,True
 Joanne Calderwood,True
 Joanne Wood,True
 Joao Marcos Pierini,False
@@ -1259,7 +1261,7 @@ Joe Stevenson,True
 Joe Vedepo,True
 Joe Veres,False
 Joel Sutton,False
-Joel Álvarez,True
+Joel Alvarez,True
 Joey Beltran,True
 Joey Gambino,False
 Joey Gilbert,True
@@ -1269,7 +1271,7 @@ John Albert,True
 John Alessio,True
 John Allan,True
 John Campetella,False
-John Castañeda,True
+John Castaneda,True
 John Cholish,True
 John Cofer,False
 John Dodson,True
@@ -1297,7 +1299,7 @@ John-Olav Einemo,True
 Johnny Bedford,True
 Johnny Case,True
 Johnny Eduardo,True
-Johnny Muñoz Jr.,True
+Johnny Munoz Jr.,True
 Johnny Rees,False
 Johnny Rhodes,True
 Johnny Walker,True
@@ -1379,14 +1381,14 @@ Joshua Van,True
 Joshua Weems,False
 Josiane Nunes,True
 Josias Musasa,False
-José Alberto Quiñónez,True
-José Aldo,True
-José Maria Tomé,False
-José Medina,True
-José Ochoa,True
-José Quiñónez,False
+Jose Alberto Quinonez,True
+Jose Aldo,True
+Jose Maria Tome,False
+Jose Medina,True
+Jose Ochoa,False
+Jose Quinonez,True
 Journey Newson,True
-João Zeferino,False
+Joao Zeferino,False
 Juan Adams,True
 Juan Espino,True
 Juan Puig,False
@@ -1399,7 +1401,7 @@ Julian Marquez,True
 Julian Sanchez,True
 Juliana Lima,True
 Juliana Miller,False
-Julianna Peña,True
+Julianna Pena,True
 Julie Kedzie,True
 Julija Stoliarenko,True
 Julio Arce,True
@@ -1407,12 +1409,12 @@ Julio Paulino,False
 Julius Walker,False
 Jun Yong Park,True
 Jung Chan-sung,True
-Jung Da Un,True
-Jung Da-un,False
-Jung Da-woon,False
+Da Un Jung,True
+Da Un Jung,True
+Da Un Jung,True
 Junie Browning,False
 Junior Assuncao,True
-Junior Assunção,True
+Junior Assuncao,True
 Junior Hernandez,False
 Junior Tafa,True
 Junior dos Santos,True
@@ -1437,10 +1439,10 @@ Justin Willis,True
 Justin Wren,True
 Justine Kish,True
 Jutaro Nakao,True
-Jéssica Andrade,True
-Júnior Albini,True
-Júnior Assunção,True
-Jędrzejczyk,True
+Jessica Andrade,True
+Junior Albini,True
+Junior Assuncao,True
+Joanna Jedrzejczyk,True
 K. J. Noons,True
 KB Bhullar,False
 Kaan Ofli,False
@@ -1468,7 +1470,7 @@ Katlyn Cerminara,True
 Katlyn Chookagian,True
 Katsuhisa Fujii,True
 Katsunori Kikuno,True
-Kauê Fernandes,False
+Kaue Fernandes,False
 Kay Hansen,True
 Kayla Harrison,True
 Kaynan Kruschewsky,False
@@ -1529,7 +1531,7 @@ Kim Dong-hyun,True
 Kim Ji-yeon,True
 Kimbo Slice,True
 Kimo Leopoldo,True
-King Green,True
+Bobby Green,True
 Kiru Singh Sahota,False
 Kit Cope,True
 Klaudia Syguła,False
@@ -1567,8 +1569,8 @@ LaVerne Clark,True
 Lance Benoist,True
 Lance Gibson,True
 Lando Vannata,True
-Landon Quiñones,False
-Lara Procópio,True
+Landon Quinones,False
+Lara Procopio,True
 Larissa Pacheco,True
 Larry Cureton,False
 Laureano Staropoli,True
@@ -1587,7 +1589,7 @@ Leo Kuntz,False
 Leomana Martinez,False
 Leon Edwards,True
 Leonard Garcia,True
-Leonardo Augusto Guimarães,False
+Leonardo Augusto Guimaraes,False
 Leonardo Mafra,True
 Leonardo Morales,True
 Leonardo Santos,True
@@ -1600,7 +1602,7 @@ Liana Jojua,True
 Liang Na,True
 Liliya Shakirova,False
 Lim Hyun-gyu,True
-Lina Länsberg,True
+Lina Lansberg,True
 Lisa Ellis,True
 Liu Pingyuan,True
 Liudvik Sholinian,False
@@ -1611,7 +1613,7 @@ Loik Radzhabov,False
 Loma Lookboonmee,True
 Lone'er Kavanagh,False
 Loopy Godinez,True
-Loopy Godínez,False
+Loopy Godinez,True
 Lorenz Larkin,True
 Louie Sutherland,False
 Louis Cosce,False
@@ -1627,32 +1629,33 @@ Lucas Alexander,False
 Lucas Almeida,False
 Lucas Martins,True
 Lucas Rocha,True
-Lucie Pudilová,True
+Lucie Pudilova,True
 Lucio Linhares,False
 Luigi Fioravanti,True
 Luigi Vendramini,True
 Luis Gurule,False
 Luis Henrique,True
-Luis Henrique da Silva,False
+Luis Henrique,True
 Luis Pajuelo,False
-Luis Peña,True
+Luis Pena,True
 Luis Ramos,True
-Luis Saldaña,True
+Luis Saldana,True
 Luiz Cane,True
-Luiz Cané,True
+Luiz Cane,True
 Luiz Dutra Jr.,False
 Luiz Eduardo Garagorri,True
 Luke Barnatt,True
 Luke Caudillo,True
 Luke Cummo,True
 Luke Jumeau,True
+Luke Riley,True
 Luke Rockhold,True
 Luke Sanders,True
 Luke Zachrich,True
 Lupita Godinez,True
 Lyman Good,True
 Lyoto Machida,True
-Lívia Renata Souza,True
+Livia Renata Souza,True
 Mac Danzig,True
 Maciej Jewtuszko,True
 Mackens Semerzier,True
@@ -1666,7 +1669,7 @@ Magomed Gadzhiyasulov,False
 Magomed Mustafaev,True
 Maheshate Hayisaer,False
 Maia Stevenson,False
-Maiquel Falcão,True
+Maiquel Falcao,True
 Mairbek Taisumov,True
 Mairon Santos,False
 Makhmud Muradov,True
@@ -1676,7 +1679,7 @@ Malcolm Gordon,True
 Malcolm Wellmaker,False
 Mallory Martin,True
 Mana Martinez,False
-Mandy Böhm,False
+Mandy Bohm,False
 Manel Kape,True
 Manny Bermudez,True
 Manny Gamburyan,True
@@ -1689,11 +1692,11 @@ Manvel Gamburyan,True
 MarQuel Mederos,False
 Mara Romero Borella,True
 Marc Diakiese,True
-Marc-André Barriault,True
+Marc-Andre Barriault,True
 Marcel Fortuna,True
 Marcelo Aguiar,True
 Marcelo Golm,True
-Marcelo Guimarães,True
+Marcelo Guimaraes,True
 Marcelo Mello,False
 Marcelo Rojo,False
 Marcin Bandel,False
@@ -1702,14 +1705,14 @@ Marcin Prachnio,True
 Marcin Tybura,True
 Marcin Wrzosek,False
 Marcio Cruz,True
-Marco Beltrán,True
+Marco Beltran,False
 Marco Ruas,True
 Marco Tulio,True
-Marcos Rogério de Lima,True
+Marcos Rogerio de Lima,True
 Marcos Rosa Mariano,False
 Marcos Vinicius,True
 Marcus Aurelio,True
-Marcus Aurélio,True
+Marcus Aurelio,True
 Marcus Bossett,True
 Marcus Brimage,True
 Marcus Buchecha,True
@@ -1718,6 +1721,7 @@ Marcus Jones,True
 Marcus LeVesseur,True
 Marcus McGhee,True
 Marcus Silveira,False
+Marek Bujło,True
 Maria Oliveira,False
 Maria de Oliveira Neta,False
 Marina Rodriguez,True
@@ -1739,14 +1743,14 @@ Mark Hughes,True
 Mark Hunt,True
 Mark Kerr,True
 Mark Madsen,True
-Mark Muñoz,True
+Mark Munoz,True
 Mark Robinson,True
 Mark Scanlon,True
 Mark Schultz,True
 Mark Striegl,True
 Mark Weir,True
 Markus Perez,True
-Markus Perez Echeimberg,True
+Markus Perez,True
 Marlon Moraes,True
 Marlon Vera,True
 Marnic Mann,False
@@ -1757,7 +1761,7 @@ Martin Day,True
 Martin Kampmann,True
 Martin Sano Jr.,False
 Martin Svensson,True
-Martín Bravo,True
+Martin Bravo,True
 Marvin Eastman,True
 Marvin Vettori,True
 Maryna Moroz,True
@@ -1765,9 +1769,9 @@ Masanori Kanehara,True
 Masio Fullen,False
 Mason Jones,True
 Masutatsu Yano,True
-Mateus Mendonça,False
+Mateus Mendonca,False
 Mateusz Gamrot,True
-Mateusz Rębecki,True
+Mateusz Rebecki,False
 Matheus Camilo,False
 Matheus Nicolau,True
 Mats Nilsson,True
@@ -1797,8 +1801,8 @@ Matthew Riddle,True
 Matthew Semelsberger,True
 Maurice Greene,True
 Maurice Smith,True
-Maurício Rua,True
-Maurício Ruffy,True
+Mauricio Rua,True
+Mauricio Ruffy,True
 Max Gimenis,False
 Max Griffin,True
 Max Holloway,True
@@ -1809,7 +1813,7 @@ Maycee Barber,True
 Mayra Bueno Silva,True
 Megan Anderson,True
 Mehdi Baghdad,True
-Melinda Fábián,True
+Melinda Fabian,True
 Melissa Croden,False
 Melissa Gatto,True
 Melissa Martinez,True
@@ -1834,21 +1838,21 @@ Michael Page,True
 Michael Patt,False
 Michael Trizano,True
 Michal Figlak,False
-Michał Figlak,False
+Michal Figlak,False
 Michał Oleksiejczuk,True
 Micheal Gillmore,False
 Michel Batista,True
 Michel Pereira,True
 Michel Prazeres,True
-Michel Quiñones,False
+Michel Quinones,False
 Michelle Montague,False
 Michelle Waterson,True
-Michelle Waterson-Gomez,True
+Michelle Waterson,True
 Michihiro Omigawa,True
 Michinori Tanaka,True
 Mick Parkin,True
 Mickael Lebout,True
-Mickaël Lebout,True
+Mickael Lebout,True
 Mickey Gall,True
 Miesha Tate,True
 Miguel Baeza,True
@@ -1875,7 +1879,7 @@ Mike Pyle,True
 Mike Rhodes,True
 Mike Ricci,True
 Mike Rio,True
-Mike Rodríguez,True
+Mike Rodriguez,True
 Mike Russow,True
 Mike Santiago,True
 Mike Stumpf,False
@@ -1892,8 +1896,8 @@ Milton Vieira,True
 Minoki Ichihara,False
 Miranda Granger,True
 Miranda Maverick,True
-Mirko Cro Cop,True
-Mirsad Bektić,True
+Mirko Filipovic,True
+Mirsad Bektic,True
 Misha Cirkunov,True
 Mitch Clarke,True
 Mitch Gagnon,True
@@ -1911,7 +1915,7 @@ Montana De La Rosa,True
 Montel Jackson,True
 Montserrat Rendon,False
 Montserrat Ruiz,True
-Morgan Charrière,False
+Morgan Charriere,False
 Mostapha al-Turk,True
 Moti Horenstein,False
 Motonobu Tezuka,False
@@ -1924,9 +1928,9 @@ Murilo Bustamante,True
 Muslim Salikhov,True
 Myktybek Orolbai,True
 Myles Jury,True
-Márcio Alexandre Jr.,False
-Márcio Cruz,True
-Mário Pinto,True
+Marcio Alexandre Jr.,False
+Marcio Cruz,True
+Mario Pinto,False
 Na Liang,False
 Nad Narimani,True
 Nadia Kassem,True
@@ -1949,8 +1953,7 @@ Nate Schroeder,False
 Nathan Coy,True
 Nathan Fletcher,True
 Nathaniel Wood,True
-Nationwide Arena,True
-Natália Silva,True
+Natalia Silva,True
 Navajo Stirling,False
 Nazareno Malegarie,True
 Nazim Sadykhov,True
@@ -1958,7 +1961,7 @@ Neil Grove,True
 Neil Magny,True
 Neil Seery,True
 Neil Wain,False
-Nicco Montaño,True
+Nicco Montano,False
 Nick Agallar,False
 Nick Aguirre,False
 Nick Catone,True
@@ -1982,7 +1985,7 @@ Nicolas Dalby,True
 Nicolle Caliari,False
 Nik Lentz,True
 Nikita Krylov,True
-Niklas Bäckström,True
+Niklas Backstrom,True
 Niklas Stolze,True
 Niko Price,True
 Nikolas Motta,False
@@ -2040,11 +2043,11 @@ Pat Sabatini,True
 Pat Schilling,False
 Patchy Mix,True
 Patrick Cummins,True
-Patrick Côté,True
+Patrick Cote,True
 Patrick Smith,True
 Patrick Walsh,True
 Patrick Williams,True
-Patrício Pitbull,True
+Patricio Pitbull,True
 Paul Bradley,True
 Paul Buentello,True
 Paul Craig,True
@@ -2064,10 +2067,10 @@ Paulo Costa,True
 Paulo Santos,True
 Paulo Thiago,True
 Pawel Pawlak,True
-Paweł Pawlak,True
+Pawel Pawlak,True
 Payton Talbott,True
 Pearl Gonzalez,True
-Pedro Falcão,False
+Pedro Falcao,False
 Pedro Munhoz,True
 Pedro Nobre,False
 Pedro Rizzo,True
@@ -2090,7 +2093,7 @@ Philip Rowe,True
 Philipe Lins,True
 Phillip Miller,True
 Phillipe Nover,True
-Piera Rodríguez,False
+Piera Rodriguez,False
 Piotr Hallmann,True
 Poliana Botelho,True
 Polo Reyes,True
@@ -2104,10 +2107,11 @@ Quillan Salkilld,False
 Quinn Mulhern,True
 Quinton Jackson,True
 Rachael Ostovich,True
-Rafa García,True
+Rafa Garcia,True
 Rafael Alves,True
 Rafael Carino,False
 Rafael Cavalcante,True
+Rafael Cerqueira,False
 Rafael Estevam,False
 Rafael Fiziev,True
 Rafael Natal,True
@@ -2128,7 +2132,7 @@ Randy Costa,True
 Randy Couture,True
 Rani Yahya,True
 Raoni Barcelos,True
-Raphael Assunção,True
+Raphael Assuncao,True
 Raphael Pessoa,True
 Raquel Pennington,True
 Rashad Coulter,True
@@ -2147,12 +2151,12 @@ Reginaldo Vieira,False
 Rei Tsuruya,False
 Reinier de Ridder,True
 Remco Pardoel,True
-Renan Barão,True
+Renan Barao,True
 Renato Moicano,True
 Renato Sobral,True
 Renato Verissimo,True
 Renzo Gracie,True
-Renée Forte,True
+Renee Forte,True
 Reuben Duran,True
 Rex Holman,True
 Reza Madadi,True
@@ -2178,7 +2182,7 @@ Rick Davis,True
 Rick Story,True
 Ricky Glenn,True
 Ricky Rainey,True
-Ricky Simón,True
+Ricky Simon,True
 Ricky Turcios,False
 Riki Fukuda,True
 Rin Nakai,True
@@ -2222,7 +2226,7 @@ Roger Hollett,True
 Roger Huerta,True
 Roger Narvaez,True
 Roger Zapata,False
-Rogério Bontorin,True
+Rogerio Bontorin,False
 Roland Delorme,True
 Roland Payne,False
 Rolando Bedoya,False
@@ -2241,7 +2245,7 @@ Ron Stallings,True
 Ron Waterman,True
 Ron van Clief,True
 Ronald Jhun,True
-Ronaldo Rodríguez,False
+Ronaldo Rodriguez,False
 Ronaldo Souza,True
 Ronda Rousey,True
 Rong Zhu,True
@@ -2318,6 +2322,7 @@ Sarah Kaufman,True
 Sarah Moras,True
 Sasha Palatnikov,True
 Satoshi Honma,True
+Saygid Izagakhmaev,False
 Scott Adams,True
 Scott Askham,True
 Scott Baker,True
@@ -2374,6 +2379,7 @@ Shane del Rosario,True
 Shanna Young,True
 Shannon Gugerty,True
 Shannon Ross,False
+Shaqueme Rock,False
 Sharabutdin Magomedov,True
 Shauna Bannon,False
 Shavkat Rakhmonov,True
@@ -2389,7 +2395,7 @@ Shinsho Anzai,True
 Shonie Carter,True
 Shunichi Shimizu,True
 Sijara Eubanks,True
-Silvana Gómez Juárez,True
+Silvana Gomez Juarez,True
 Simeon Thoresen,True
 Sione Latu,True
 Sirwan Kakai,False
@@ -2402,7 +2408,7 @@ Song Yadong,True
 Spencer Fisher,True
 Spike Carlyle,True
 Stanislav Nedkov,True
-Stefan Sekulić,False
+Stefan Sekulic,False
 Stefan Struve,True
 Stephan Bonnar,True
 Stephanie Egger,True
@@ -2410,7 +2416,7 @@ Stephanie Luciano,False
 Stephen Bass,True
 Stephen Thompson,True
 Steve Berger,True
-Steve Bossé,True
+Steve Bosse,False
 Steve Bruno,True
 Steve Byrnes,True
 Steve Cantwell,True
@@ -2437,10 +2443,10 @@ Stipe Miocic,True
 Su Mudaerji,True
 Sultan Aliev,True
 Suman Mokhtarian,True
-Suman Mokhtarian (FW),False
+Suman Mokhtarian,True
 Sung Bin Jo,False
 Syuri Kondo,True
-Sérgio Moraes,True
+Sergio Moraes,True
 T. J. Grant,True
 T.J. Brown,True
 T.J. Dillashaw,True
@@ -2477,9 +2483,9 @@ Te Edwards,False
 Tecia Pennington,True
 Tecia Torres,True
 Tedd Williams,True
-Teemu Packalén,True
+Teemu Packalen,True
 Teila Tuli,True
-Tereza Bledá,False
+Tereza Bleda,False
 Terrance McKinney,True
 Terrence Mitchell,False
 Terrion Ware,True
@@ -2490,8 +2496,8 @@ Thaddeus Luster,False
 Thales Leites,True
 Themba Gorimbo,True
 Thiago Alves,True
-Thiago Moisés,True
-Thiago Perpétuo,True
+Thiago Moises,True
+Thiago Perpetuo,True
 Thiago Santos,True
 Thiago Silva,True
 Thiago Tavares,True
@@ -2517,7 +2523,7 @@ Tim Williams,True
 Timothy Cuamba,False
 Timothy Johnson,True
 Timur Valiev,True
-Tina Lähdemäki,False
+Tina Lahdemaki,False
 Tito Ortiz,True
 Todd Brown,True
 Todd Butler,True
@@ -2533,7 +2539,7 @@ Tom Egan,True
 Tom Gallicchio,False
 Tom Lawlor,True
 Tom Murphy,True
-Tom Niinimäki,True
+Tom Niinimaki,True
 Tom Nolan,True
 Tom Speer,True
 Tom Watson,True
@@ -2549,11 +2555,10 @@ Tony Petarra,False
 Tony Sims,True
 Tonya Evinger,True
 Tor Troeng,True
-Tor Troéng,True
+Tor Troeng,True
 Torrez Finney,False
 Toshiomi Kazama,False
 Townsend Saunders,True
-Toyota Center,True
 Tra Telligman,True
 Tracy Cortez,True
 Travis Browne,True
@@ -2572,7 +2577,7 @@ Trey Ogden,False
 Trey Waters,False
 Tristan Connelly,True
 Troy Mandaloniz,True
-Tsuyoshi Kohsaka,True
+Tsuyoshi Kosaka,True
 Tsuyoshi Kosaka,True
 Tucker Lutz,False
 Tuco Tokkos,False
@@ -2591,15 +2596,15 @@ Uran Satybaldiev,False
 Uriah Hall,True
 Urijah Faber,True
 Uros Jurisic,False
-Uroš Medić,True
+Uros Medic,True
 Vagner Rocha,True
 Val Woodburn,False
 Valentina Shevchenko,True
 Valeri Ignatov,False
 Valmir Lazaro,False
-Valmir Lázaro,False
+Valmir Lazaro,False
 Valter Walker,False
-Valérie Létourneau,True
+Valerie Letourneau,True
 Vanessa Demopoulos,True
 Vanessa Melo,True
 Vaughan Lee,True
@@ -2618,7 +2623,7 @@ Victor Valimaki,False
 Victoria Dudakova,False
 Victoria Leonardo,True
 Vik Grujic,False
-Viktor Pešta,True
+Viktor Pesta,True
 Viktoriya Dudakova,False
 Vinc Pichel,True
 Vince Cachero,False
@@ -2629,13 +2634,13 @@ Vinicius Oliveira,True
 Vinicius Queiroz,True
 Vinicius Salvador,False
 Vinny Magalhaes,True
-Vinny Magalhães,True
+Vinny Magalhaes,True
 Virna Jandiroba,True
 Viscardi Andrade,True
 Vitor Belfort,True
 Vitor Miranda,True
 Vitor Petrino,True
-Viviane Araújo,True
+Viviane Araujo,True
 Viviane Pereira,True
 Vladimir Matyushenko,True
 Volkan Oezdemir,True
@@ -2667,7 +2672,7 @@ Will Chope,False
 Willamy Freire,True
 William Gomis,False
 William Knight,True
-William Macário,True
+William Macario,True
 Willie Gates,True
 Wilson Gouveia,True
 Wilson Reis,True
@@ -2676,7 +2681,7 @@ Wuliji Buren,True
 Xavier Foupa-Pokam,False
 Xiao Long,False
 Yadier del Valle,False
-Yair Rodríguez,True
+Yair Rodriguez,True
 Yan Cabral,True
 Yan Xiaonan,True
 Yana Kunitskaya,True
@@ -2721,7 +2726,7 @@ Zac Pauga,False
 Zach Light,False
 Zach Makovsky,True
 Zach Scroggin,False
-Zachary Reese,False
+Zachary Reese,True
 Zak Cummings,True
 Zak Ottow,True
 Zane Frazier,True
@@ -2738,14 +2743,13 @@ Zhumabek Tursyn,True
 Zu Anyanwu,False
 Zubaira Tukhugov,True
 Zviad Lazishvili,False
-Álvaro Herrera,True
-Édgar Cháirez,False
-Érik Pérez,True
-İbo Aslan,True
-Ľudovít Klein,True
+Alvaro Herrera,True
+Edgar Chairez,False
+Ibo Aslan,True
+Ludovit Klein,True
 Łukasz Brzeski,False
 Łukasz Sajewski,False
-Žygimantas Ramaška,False
+Zygimantas Ramaska,False
 AJ Wieman,False
 Aaron Steed,False
 Abraham Baxter,False
@@ -2834,7 +2838,7 @@ Dave Terrel,False
 David Avellan,True
 David Bancroft,True
 Dax Bruce,False
-Deividas Taurosevičius,True
+Deividas Taurosevicius,True
 Del Hawkins,False
 Deshaun Johnson,False
 Devin Cole,True
@@ -3077,13 +3081,13 @@ Alexander Otsuka,True
 Alexandru Lungu,True
 Allan Goes,True
 Andrei Kopylov,True
-Antônio Schembri,False
+Antonio Schembri,True
 Bazigit Atajev,True
 Bertrand Amoussou,True
 Bob Sapp,True
 Bob Schrijber,True
 Brady Fink,False
-Branko Cikatić,True
+Branko Cikatic,True
 Brian Lo-A-Njoe,True
 Carl Ognibene,True
 Chalid Arrab,True
@@ -3095,14 +3099,14 @@ Crosley Gracie,False
 Daijiro Matsui,True
 Daisuke Nakamura,True
 Daisuke Sugie,False
-Daniel Acácio,True
+Daniel Acacio,True
 Daniel Gracie,True
 David Abbott,True
 Demetrius Gioulacos,False
 Denis Sobolev,True
 Edson Claas Vieira,False
 Egan Inoue,True
-Egidijus Valavičius,True
+Egidijus Valavicius,True
 Eldar Kurtanidze,True
 Emmanuel Yarborough,True
 Eoh Won Jin,False
@@ -3134,17 +3138,17 @@ Jadyson Costa,False
 James Thompson,True
 Jan Nortje,True
 Jason Suttie,True
-Jean-François Lénogue,False
+Jean-Francois Lenogue,False
 Jerrel Venetiaan,True
 Joachim Hansen,True
-Joey Villaseñor,True
+Joey Villasenor,True
 Johil de Oliveira,True
 John Dixson,False
 John Renken,False
-José Landi,False
+Jose Landi,False
 Juan Mott,False
 Jukei Nakajima,False
-Jérôme Le Banner,True
+Jerome Le Banner,True
 Kazuhiro Hamanaka,True
 Kazuki Okubo,False
 Kazunari Murakami,True
@@ -3158,8 +3162,8 @@ Kim Jong Wang,False
 Kiyoshi Tamura,True
 Kyle Sturgeon,False
 Kyosuke Sasaki,True
-Kęstutis Smirnovas,True
-Kōji Kitao,True
+Kestutis Smirnovas,True
+Koji Kitao,True
 Larry Parker,True
 Lee Tae-Hyun,False
 Lloyd van Dams,True
@@ -3177,11 +3181,11 @@ Matt Foki,False
 Matt Skelton,True
 Michiyoshi Ohara,True
 Mike Barton,True
-Mike Bencić,False
+Mike Bencic,False
 Mike Bourke,False
 Mikhail Illoukhine,True
 Minoru Toyonaga,False
-Mirko Filipović,True
+Mirko Filipovic,True
 Murad Chunkaiev,False
 Murilo Rua,True
 Naoki Matsushita,True
@@ -3192,9 +3196,9 @@ Nobuaki Kakuda,True
 Nobuhiko Takada,True
 Nobuhiro Obiya,False
 Osamu Tachihikari,False
-Paulo César da Silva,True
+Paulo Cesar da Silva,True
 Pawel Nastula,True
-Pedro Otávio,False
+Pedro Otavio,False
 Ralph Gracie,True
 Ralph White,True
 Ricardo Arona,True
@@ -3252,8 +3256,8 @@ Yuji Hisamatsu,False
 Yuki Ishikawa,True
 Yukio Kawabe,True
 Yusuke Imamura,True
-Yōsuke Nishijima,True
-Zelg Galešić,True
+Yosuke Nishijima,True
+Zelg Galesic,True
 Antwain Britt,True
 Bobby Lashley,True
 Brett Rogers,True
@@ -3266,7 +3270,7 @@ James Terry,True
 Justin Wilcox,True
 Louis Taylor,True
 Lumumba Sayers,False
-Marius Žaromskis,True
+Marius Zaromskis,True
 Marloes Coenen,True
 Muhammed Lawal,True
 Ray Sefo,True
@@ -3276,8 +3280,8 @@ Akop Stepanyan,True
 Alexander Sarnavskiy,True
 Alexandre Bezerra,True
 Alexis Vila,True
-Andreas Spång,True
-Attila Végh,True
+Andreas Spang,True
+Attila Vegh,True
 Brandon Halsey,True
 Brent Weedman,True
 Brett Cooper,True
@@ -3376,10 +3380,10 @@ Elise Pone,False
 Fallon Johnson,False
 Fernanda Orellana,False
 Flor Hernandez,False
-Giulliany Perêa,False
+Giulliany Perea,False
 Hilarie Rose,False
 Hope Holmes,False
-Hérica Tibúrcio,True
+Herica Tiburcio,True
 Jackie Cataline,False
 Jaeleen Robledo,False
 Jamie Edenden,False
@@ -3405,7 +3409,7 @@ Maria Djukic,False
 Maria Jose Favela,False
 Marilia Morias,False
 Marisa Messer-Belenchia,False
-Mayra Cantuária,False
+Mayra Cantuaria,False
 Meaghan Penning,False
 Monique Adriane,False
 Nayara Maia,False
@@ -3416,7 +3420,7 @@ Rayla Nascimento,False
 Riley Martinez,False
 Sandra Lavado,False
 Saori Oshima,True
-Sayury Cañon,False
+Sayury Canon,False
 Shino VanHoose,True
 Taneisha Tennant,True
 Taylor Guardado,False
@@ -3427,14 +3431,14 @@ Violeta Mendoza,False
 Yasmin Castanho,False
 Yulia Ostroverkhova,False
 Zoe Nowicki,False
->115 Ib >52.2 kg,False
->125 Ib >56.7 kg,False
->135 Ib >61.2 kg,False
->145 Ib >65.8 kg,False
->155 Ib >70.3 kg,False
->170 Ib >77.1 kg,False
->185 Ib >83.9 kg,False
->205 Ib >93 kg,False
+>115 Ib >52.2 kg,False
+>125 Ib >56.7 kg,False
+>135 Ib >61.2 kg,False
+>145 Ib >65.8 kg,False
+>155 Ib >70.3 kg,False
+>170 Ib >77.1 kg,False
+>185 Ib >83.9 kg,False
+>205 Ib >93 kg,False
 A. J. McKee,True
 Aaron Jeffery,True
 Abbas Khan,True
@@ -3452,7 +3456,7 @@ Ahmed Abdel Baset,False
 Ahmed El Sisy,False
 Ahmed Sami,False
 Alain Majorique,False
-Alan Domínguez,False
+Alan Dominguez,False
 Alan Philpott,True
 Aleksandr Chizov,False
 Alexander Luster,False
@@ -3470,13 +3474,12 @@ Anthony Romero,True
 Antonio Caruso,False
 Any number within parenthesis in a fighter's record symbolizes a no contest,False
 Archie Colgan,False
-Asaël Adjoudj,False
+Asael Adjoudj,False
 Ashley Thiner,False
 Asiashu Tshitamba,False
 Assem Ghanem,False
 Ayinda Octave,False
 Ayman Galal,False
-Badr Medkouri,False
 Badreddine Diani,False
 Baris Adiguzel,False
 Baysangur Chamsoudinov,False
@@ -3495,11 +3498,11 @@ Bryce Meredith,True
 Caolon Loughran,False
 Catalin Safta,False
 Chelsea Hackett,True
-Ciarán Clarke,True
+Ciaran Clarke,True
 Claudio Pacella,False
 Cleiver Fernandes,False
 Connor Hughes,True
-Cédric Doumbé,True
+Cedric Doumbe,True
 Dakota Ditcheva,True
 Dalton Rosta,False
 Daniele Miceli,False
@@ -3513,11 +3516,9 @@ Diana Avsaragova,True
 Dovletdzhan Yagshimuradov,True
 Drissi Boualem,False
 Dwight Joseph,False
-Dylan Tuke,False
 Ekaterina Shakalova,True
 Elbert Lukas Steyn,False
 Elora Dana,False
-Elvin Espinoza,False
 Eman Almudhaf,False
 Emilios Dassi,False
 Eoin Sheridan,False
@@ -3533,21 +3534,20 @@ Gavin Hughes,False
 Gemma Auld,False
 Georges Eid,False
 Giannis Bachar,False
-Gino van Steenis,False
-Grégory Babene,False
+Gregory Babene,False
 Gustavo Oliveira,True
 Hadi Omar Al Hussaini,False
 Haider Khan,True
+Hamad Marhoon,False
 Hattan Alsaif,False
 Henry Corrales,True
 Hussein Salem,True
 Ibragim Ibragimov,True
-Ibrahima Mané,False
+Ibrahima Mane,False
 Ilara Joanne,False
 Islam Reda,False
 Islam Youssef,False
 Izzeddine Al Derbani,False
-Jacinta Austin,False
 Jack Cartwright,True
 Jakub Kaszuba,True
 Jan Ciepłowski,False
@@ -3562,7 +3562,7 @@ Jordan Newman,False
 Joseph Luciano,False
 Josh Reed,True
 Josh Silveira,False
-João Vitor Dantas,False
+Joao Vitor Dantas,False
 Juliana Velasquez,True
 Julien Lopez,True
 Juliet Ukah,False
@@ -3603,14 +3603,14 @@ Masayuki Kikuiri,False
 Matheus Mattos,False
 Matiss Zaharovs,False
 Maxwell Djantou Nana,False
-Mickaël Groguhe,False
+Mickael Groguhe,False
 Mike Hamel,True
 Mike Shipman,False
+Miracle Andrew,False
 Mirafzal Akhtamov,False
 Mohamed Camara,True
 Mohamed Zarey,False
 Mohammad Alaqraa,False
-Mohammad Ben Yahia,False
 Mohammad Fahmi,True
 Mohsen Mohammadseifi,True
 Moktar Benkaci,False
@@ -3634,11 +3634,10 @@ Patrick Habirora,False
 Patrick Ocheme,False
 Paul Hughes,True
 Paul-Emmanuel Gnaze,False
-Paulina Wiśniewska,True
+Paulina Wisniewska,False
 Pouya Rahmani,True
 Rachid El Hazoume,False
 Rafael Xavier,False
-Raihere Dudes,False
 Ramazan Kuramagomedov,True
 Rasul Magomedov,False
 Raufeon Stots,True
@@ -3658,15 +3657,15 @@ Saray Orozco,False
 Sarek Shields,False
 Sarvarjon Khamidov,False
 Savannah Marshall,True
-Sean Gauci,False
 Sebastien Di Franco,False
 Sergey Bilostenniy,False
 Sergio Cossio,False
 Shamil Musaev,True
 Shannon van Tonder,False
+Shelda Chipito,False
 Shido Boris Esperanca,False
 Simbarashe Hokonya,False
-Simeón Powell,False
+Simeon Powell,False
 Sinead Kavanagh,True
 Slim Trabelsi,False
 Souhil Tahiri,False
@@ -3678,21 +3677,21 @@ Taha Bendaoud,False
 Takeshi Izumi,False
 Tariq Ismail,False
 Thad Jean,True
+Thimna Mhlauli,False
 Timur Khizriev,True
 Tiziano Ferranti,False
 Vacant,True
 Vadim Nemkov,True
-Valentin Moldavsky,True
 Valentina Scatizzi,False
 Vilson Ndregjoni,False
 Vinicius Cenci,False
-Wasiu Adeshina,False
+Wasi Adeshina,False
 Wilker Nsamo,False
-Yabna N’Tchalá,False
+Yabna N’Tchala,False
 Yves Landu,False
 Zebenzui Ruiz,False
 Ziad Ayman Mokhtar,False
-Ádám Borics,True
+Adam Borics,True
 Akira Okada,False
 Alan Yamaniha,False
 Alibek Gadzhammatov,False
@@ -3710,7 +3709,7 @@ Hiroaki Suzuki,True
 Hiromasa Ougikubo,True
 Hiroya Kondo,False
 Hyuma Yasui,False
-Igor Tanabe Guimarães,False
+Igor Tanabe Guimaraes,False
 Ilkhom Nazimov,False
 Jo Arai,True
 Joe Hiramoto,False

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import time
 import re
+import unicodedata
 from typing import List, Optional, Tuple, Set
 from functools import lru_cache
 
@@ -268,6 +269,19 @@ def _drop_garbage_names(df: pd.DataFrame, org: str) -> pd.DataFrame:
         "Any number within parenthesis in a fighter's record symbolizes a no contest",
         ">185 Ib >83.9 kg",
         ">205 Ib >93 kg",
+        "ARCO Arena",
+        "Nationwide Arena",
+        "11/30/2013",
+        "Toyota Center",
+        ">115 Ib >52.2 kg",
+        ">125 Ib >56.7 kg",
+        ">135 Ib >61.2 kg",
+        ">145 Ib >65.8 kg",
+        ">155 Ib >70.3 kg",
+        ">170 Ib >77.1 kg",
+        ">185 Ib >83.9 kg",
+        ">205 Ib >93 kg",
+        "Any number within parenthesis in a fighter's record symbolizes a no contest",
     ]
 
     out = df.copy()
@@ -502,6 +516,92 @@ def get_rizin_fighters() -> pd.DataFrame:
 
 
 # ------------------------------------------------------------------
+# Name normalization / alias handling
+# ------------------------------------------------------------------
+
+# Canonical replacements for known variant/alias names
+NAME_REPLACEMENTS = {
+    "Bret Cooper": "Brett Cooper",
+    "Wágner da Conceição Martins": "Zuluzinho",
+    "Abu Azaitar": "Ottman Azaitar",
+    "Abusupiyan Magomedov": "Abus Magomedov",
+    "Amanda Cooper": "Amanda Brundage",
+    "Antonio McKee": "A. J. McKee",
+    "King Green": "Bobby Green",
+    "Mirko Cro Cop": "Mirko Filipović",
+    "Héctor Lombard": "Hector Lombard",
+    "Alexander Muñoz": "Alexander Munoz",
+    "Alexey Oleynik": "Aleksei Oleinik",
+    "Alptekin Özkılıç": "Alp Ozkilic",
+    "Fábio Maldonado": "Fabio Maldonado",
+    "Antônio Silva": "Antonio Silva",
+    "Tsuyoshi Kohsaka": "Tsuyoshi Kosaka",
+    "Egidijus Valavičius": "Egidijus Valavicius",
+    "Caio Magalhães": "Caio Magalhaes",
+    "Caolán Loughran": "Caolan Loughran",
+    "Carlos Hernández": "Carlos Hernandez",
+    "Cláudio Ribeiro": "Claudio Ribeiro",
+    "Cristian Quiñónez": "Cristian Quiñonez",
+    "Cyrille Diabaté": "Cyrille Diabate",
+    "Daniel Bárez": "Daniel Barez",
+    "Edgar García": "Edgar Garcia",
+    "Elias Silvério": "Elias Silverio",
+    "Luis Henrique da Silva": "Luis Henrique",
+    "Fabrício Camões": "Fabricio Camoes",
+    "Genaro Valdèz": "Genaro Valdez",
+    "Genaro Valdéz": "Genaro Valdez",
+    "Hermes França": "Hermes Franca",
+    "Héctor Urbina": "Hector Urbina",
+    "Ildemar Alcântara": "Ildemar Alcantara",
+    "José Maria Tomé": "Jose Maria Tome",
+    "José Ochoa": "Jose Ochoa",
+    "Jung Da Un": "Da Un Jung",
+    "Jung Da-un": "Da Un Jung",
+    "Jung Da-woon": "Da Un Jung",
+    "Junior Assunção": "Junior Assuncao",
+    "Júnior Assunção": "Junior Assuncao",
+    "Jędrzejczyk": "Joanna Jedrzejczyk",
+    "Loopy Godínez": "Loopy Godinez",
+    "Luiz Cané": "Luiz Cane",
+    "Martín Bravo": "Martin Bravo",
+    "Michał Figlak": "Michal Figlak",
+    "Michelle Waterson-Gomez": "Michelle Waterson",
+    "Mickaël Lebout": "Mickael Lebout",
+    "Márcio Cruz": "Marcio Cruz",
+    "Paweł Pawlak": "Pawel Pawlak",
+    "Joel Supenante": "Joel Suprenante",
+    "Suman Mokhtarian (FW)": "Suman Mokhtarian",
+    "Tor Troéng": "Tor Troeng",
+    "Vinny Magalhães": "Vinny Magalhaes",
+    "Édgar Cháirez": "Edgar Chairez",
+    "Daniel Bárez": "Daniel Barez",
+    "Markus Perez Echeimberg": "Markus Perez",
+}
+
+
+def strip_accents(s: str) -> str:
+    """Remove accents/diacritics from a string."""
+    if not isinstance(s, str):
+        return s
+    s_norm = unicodedata.normalize("NFKD", s)
+    return "".join(ch for ch in s_norm if not unicodedata.combining(ch))
+
+
+def canonical_name(name: str) -> str:
+    """
+    Apply replacements + accent-stripping consistently for fighters and opponents.
+    """
+    if not isinstance(name, str):
+        return name
+    # First use explicit replacements if present
+    if name in NAME_REPLACEMENTS:
+        name = NAME_REPLACEMENTS[name]
+    # Then strip accents generically
+    name = strip_accents(name)
+    return name
+
+
+# ------------------------------------------------------------------
 # Master fighter list
 # ------------------------------------------------------------------
 
@@ -525,17 +625,8 @@ def build_master_fighter_list() -> pd.DataFrame:
     combined = pd.concat(dfs, ignore_index=True)
     combined = combined.drop_duplicates(subset=["Fighter"]).reset_index(drop=True)
 
-    # normalize some name variants
-    replacements = {
-        "Bret Cooper": "Brett Cooper",
-        "Wágner da Conceição Martins": "Zuluzinho",
-        "Abu Azaitar": "Ottman Azaitar",
-        "Abusupiyan Magomedov": "Abus Magomedov",
-        "Amanda Cooper": "Amanda Brundage",
-        "Antonio McKee": "A. J. McKee",
-        "King Green": "Bobby Green",
-    }
-    combined["Fighter"] = combined["Fighter"].replace(replacements)
+    # normalize some name variants (aliases + accent stripping)
+    combined["Fighter"] = combined["Fighter"].apply(canonical_name)
 
     # --- Add has_wiki_page (True/False) ---
     combined["has_wiki_page"] = combined["Fighter"].apply(check_has_wiki_page)
@@ -699,7 +790,14 @@ def _scrape_single_fighter_page(
     if record_df is None:
         return None
 
-    record_df.insert(0, "Fighter", name)
+    # Canonicalize the main fighter name
+    fighter_canon = canonical_name(name)
+    record_df.insert(0, "Fighter", fighter_canon)
+
+    # Canonicalize Opponent column if present
+    if "Opponent" in record_df.columns:
+        record_df["Opponent"] = record_df["Opponent"].apply(canonical_name)
+
     record_df["has_wiki_page"] = True
     record_df["Division"] = divisions
     record_df["Weight Info"] = weight_info

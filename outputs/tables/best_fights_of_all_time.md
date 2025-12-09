@@ -1,12 +1,12 @@
-|   Rank | Fighter 1             |   ELO Rating 1 | Fighter 2         |   ELO Rating 2 |   Combined ELO Rating |
-|-------:|:----------------------|---------------:|:------------------|---------------:|----------------------:|
-|      1 | Daniel Cormier        |        2053.23 | Stipe Miocic      |        1890.61 |               3943.84 |
-|      2 | Stipe Miocic          |        1935.6  | Daniel Cormier    |        2002.63 |               3938.24 |
-|      3 | Stipe Miocic          |        1926.22 | Daniel Cormier    |        1992.24 |               3918.46 |
-|      4 | Jake Shields          |        1894.11 | Georges St-Pierre |        1997.36 |               3891.48 |
-|      5 | Chael Sonnen          |        1845.49 | Anderson Silva    |        2045.23 |               3890.71 |
-|      6 | Alexander Volkanovski |        1950.65 | Islam Makhachev   |        1933.72 |               3884.38 |
-|      7 | Jon Jones             |        1994.77 | Daniel Cormier    |        1888.75 |               3883.52 |
-|      8 | Dustin Poirier        |        1898.04 | Islam Makhachev   |        1973.18 |               3871.22 |
-|      9 | Daniel Cormier        |        1956.09 | Anthony Johnson   |        1912.28 |               3868.37 |
-|     10 | Andrei Arlovski       |        1813.39 | Fedor Emelianenko |        2051.75 |               3865.14 |
+|   Rank | Fighter 1         |   ELO Rating 1 | Fighter 2             |   ELO Rating 2 |   Combined ELO Rating |
+|-------:|:------------------|---------------:|:----------------------|---------------:|----------------------:|
+|      1 | Daniel Cormier    |        2030.82 | Stipe Miocic          |        1868.08 |               3898.9  |
+|      2 | Stipe Miocic      |        1911.88 | Daniel Cormier        |        1978.91 |               3890.78 |
+|      3 | Georges St-Pierre |        1993.45 | Jake Shields          |        1892.6  |               3886.05 |
+|      4 | Anderson Silva    |        2042.21 | Chael Sonnen          |        1836.61 |               3878.82 |
+|      5 | Daniel Cormier    |        1970.61 | Stipe Miocic          |        1904.49 |               3875.1  |
+|      6 | Islam Makhachev   |        1913.84 | Alexander Volkanovski |        1946.78 |               3860.62 |
+|      7 | Johny Hendricks   |        1845.11 | Georges St-Pierre     |        2014.62 |               3859.73 |
+|      8 | Anderson Silva    |        2029.78 | Yushin Okami          |        1819.45 |               3849.24 |
+|      9 | Daniel Cormier    |        1856.03 | Jon Jones             |        1988.54 |               3844.57 |
+|     10 | Daniel Cormier    |        2011.19 | Derrick Lewis         |        1821.44 |               3832.63 |
